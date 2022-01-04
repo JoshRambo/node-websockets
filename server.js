@@ -24,7 +24,7 @@ setInterval(() => {
 }, 1000);
 
 const serverboard = [null,null,null,null,null,null,null,null]
-const UserTurn = 'N/A';
+const USERTURN = 'N/A';
 const serverslot1used = false
 const serverslot2used = false
 const serverslot3used = false
